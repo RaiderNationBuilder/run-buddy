@@ -83,7 +83,7 @@ section{
     position: absolute;
     bottom: 120px;
     right: 140px;
-    margin: 5px 0 15px 0;
+    
 }
 
 .hero-form h3 {
@@ -106,7 +106,6 @@ section{
     padding: 10px 20px;
     font-size: 16px;
   }
-/*End Hero Styling*/
 
 .form-input {
     border: 1px solid #024e76;
@@ -118,3 +117,4 @@ section{
     margin-bottom: 15px;
   }
 
+/*End Hero Styling*/
