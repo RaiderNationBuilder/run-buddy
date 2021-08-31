@@ -124,13 +124,22 @@ section{
     font-size: 38px;
 }
 /*Hero Style Start */
+/*homepage hero*/
 .hero {
-    background-image: url("../images/hero-bg.jpg");
+    background-image: url('../images/hero-bg.jpg');
     height: 600px;
     background-size: cover;
     background-position: center;
+    position: relative;    
+    background-color: white;
+    color: blue;
+    font-size: 20px;
 }
-
+/*secondary page hero*/
+.hero-secondary {    
+    background-color: black;    
+    color: red;
+}
 .hero-form {
     background-color: #fce138;
     padding: 20px;
